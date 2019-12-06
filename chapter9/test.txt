@@ -1,3 +1,0 @@
-The following line should appear in your bochsrc:
-  ata0-master: type=disk, path="80.img", mode=flat
-
